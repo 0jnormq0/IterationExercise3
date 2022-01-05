@@ -5,9 +5,6 @@ namespace MethodsWithLoopsAndConditionals
 {
     class Program
     {
-        private static int counter;
-        private static int i;
-
         static void Main(string[] args)
         {
             Counter();
